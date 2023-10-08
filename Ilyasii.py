@@ -10,7 +10,7 @@ import os,base64,zlib,pip,urllib,sys,time,platform,pip,uuid,subprocess
 os.system('clear')
 
 os.system('xdg-open https://youtube.com/@ILYAS_II?si=djwG0NVXlWR0XxpZ/')
-os system('xdg-open https://chat.whatsapp.com/DmQsXgLf46RLvavWb6y7Y0
+os.system('xdg-open https://chat.whatsapp.com/DmQsXgLf46RLvavWb6y7Y0
 print('\n [√] Wait Installing Modules...!')
 os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
 print('\n \033[1;32m[√]\033[1;37m Wait Checking Modules...!')
